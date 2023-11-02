@@ -1,0 +1,29 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: unset;
+    margin: 13%;
+    margin-top: 0cm;
+    background-color: ghostwhite;
+    font-size: medium;
+}
+
+img{
+    width: 50px; /*20*/
+    height: auto; /*20*/
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    border-radius: auto;
+    background-color: whitesmoke;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    color: #13c3ba;
+    letter-spacing: 1rem;
+    font-size: 18px;
+    text-transform: capitalize;
+    background-color: whitesmoke;
+}
